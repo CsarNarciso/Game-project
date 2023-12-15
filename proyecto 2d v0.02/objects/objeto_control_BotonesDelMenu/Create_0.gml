@@ -1,0 +1,1 @@
+BOTON_MENU_PRINCIPAL = "iniciar partida";

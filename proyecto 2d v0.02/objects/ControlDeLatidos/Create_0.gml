@@ -1,0 +1,1 @@
+contadorLatido = 0;	

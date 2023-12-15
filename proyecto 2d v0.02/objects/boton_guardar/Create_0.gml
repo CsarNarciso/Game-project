@@ -1,0 +1,1 @@
+	Zona_Guardado = false;

@@ -1,0 +1,1 @@
+draw_text(x,y,NUMERO_SLOT_GUARDAR_PARTIDA);

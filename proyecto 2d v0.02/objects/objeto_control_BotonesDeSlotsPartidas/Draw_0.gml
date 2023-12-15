@@ -1,0 +1,1 @@
+draw_text(501,447,NUMERO_SLOT_PARTIDA);
