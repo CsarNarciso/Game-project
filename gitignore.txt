@@ -1,2 +1,1 @@
-*/sprites/
-*/sounds/
+/proyecto 2d v0.02/sprites
